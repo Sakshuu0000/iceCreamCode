@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <style type= "text/css">
+            body{
+                background-image: url("bgpic.webp");
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: 100% 100%;
+            }
+
+        </style>
+    </head>
+    <div style  = " text-align: center;"><img style="border-radius: 100px;" src="bubulegum.jpg"></div>
+    <h1 style= "color: white; text-align: center;"font-size:30px;text-align: >Delicious</h1>
+    <h1 style= "color: white;text-align: center;"font-size:30px;text-align:>flavors</h1>
+
+    <p style = " font-size: 30px; color:white;text-align:center;line-height:25px;margin-bottom:50px;">
+         flavored cream and milk products churned or stirred to a smooth consistency <br>during the freezing process 
+         and often containing gelatin, eggs, fruits, nuts.
+    </p>
+        
+        <div style="margin-bottom:50px; text-align:center;"><a style="font-size:20px; background-color: red; padding: 15px 35px 15px
+         35px; color: white;" href="https://www.britannica.com/topic/ice-cream">Read More</a></div>
+
+        
+        <h1 style= "color: snow;text-align: center;margin-bottom:50px;"font-size:30px;>ICE CREAM COLLECTION</h1>
+        
+       
+       
+       
+       
+       <div style="color: aliceblue; height:50%; width:33%; font-size:20px; 
+        display:inline-block";>
+            <img style = "width: 400px; height: 300px;" src="mango.jpg">
+            <p> A mango is a sweet tropical fruit, and it's also the name of the trees on which the fruit grows. 
+                 Like peaches and plums, mangoes have an inedible pit at the center.
+                Unlike these other fruits, the skin of a mango is very tough and also inedible.</p>
+        </div>
+
+       
+       
+       
+        
+       <div style= "color:aliceblue; height:50%; width:33%; font-size:20px; 
+        display:inline-block;">
+            <img style = "width: 400px; height: 300px;"  src="vanila.jpg">
+            <p>Vanilla is an evergreen vine that can reach up to 15m in length. 
+                It has thick stems and greenish to yellow flowers.
+                The fruits are long, thin pods that contain thousands of tiny, black seeds.
+                 Vanilla has fleshy aerial roots that cling to trees and allow it to climb.</p>
+        </div>
+
+       
+       
+       
+       <div style= "color:aliceblue; height:50%; width:33%;font-size:20px; 
+        display:inline-block;">
+            <img style = "width: 400px; height: 300px;" src="STRAW.jpg">
+            <p> A strawberry is both a low-growing, flowering plant and also the name of the fruit that it produces. 
+                Strawberries are soft, sweet, bright red berries. They're also delicious.
+                 Strawberries have tiny edible seeds, which grow all over their surface. </p>  
+        </div>
+
+       
+        <center style="margin: 50px;"> 
+        <h1 style="font-size:40px;">Our Services</h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Bg8mGR-m4oo?si=i4PUuXnMyoyPBLqd" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen></iframe>
+        <p style="color: aliceblue; font-size:20px;">Ice cream is one of the most commonly loved desserts on this planet</p>
+        </center>
+</html>
